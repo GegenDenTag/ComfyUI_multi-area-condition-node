@@ -1,0 +1,1 @@
+# ComfyUI_multi-area-condition-node
